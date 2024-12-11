@@ -3,7 +3,7 @@ const qrcode = require('qrcode-terminal');
 
 // Lista de IDs de grupos permitidos
 const allowedGroupIds = [
-    '120363312830003816@g.us'
+    'ejemplo@g.us'
 ];
 
 const client = new Client();
